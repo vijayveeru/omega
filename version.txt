@@ -1,5 +1,5 @@
-{"appVersion" => "2",
-"releaseNote" => "\nOmega backup version",
-"welcomeNote" => "\nOmega backup version",
-"userName" => "000",
+{"appVersion" => "0",
+"releaseNote" => "Update Available",
+"welcomeNote" => "Thanks For Donation\n\nChangeLogs:\nVersion V1.0.1\n-> Updated Server\nVersion V1.0.0\n-> Release",
+"userName" => "0",
 "downloadUpdate" => "https://t.me/GhostMODS"}
