@@ -1,0 +1,3 @@
+{"appVersion" => "2",
+"releaseNote" => "\nOmega backup version",
+"downloadUpdate" => "https://t.me/GhostMODS"}
