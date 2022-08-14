@@ -1,4 +1,4 @@
-{"appVersion" => "0",
+{"appVersion" => "1027",
 "releaseNote" => "Update Available",
 "welcomeNote" => "Thanks For Donation\n\nChangeLogs :\n\n    × V 1.0.1 ×\n• Fixed Server\n• Fixed Some Bugs\n\n    × V 1.0.0 ×\n• Release",
 "userName" => "0",
