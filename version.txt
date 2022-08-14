@@ -1,3 +1,5 @@
 {"appVersion" => "2",
 "releaseNote" => "\nOmega backup version",
+"welcomeNote" => "\nOmega backup version",
+"userName" => "000",
 "downloadUpdate" => "https://t.me/GhostMODS"}
