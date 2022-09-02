@@ -2,4 +2,4 @@
 "releaseNote" => "Update Available",
 "welcomeNote" => "Thanks For Donation\n\nChangeLogs :\n\n    × V 1.0.1 ×\n• Fixed Server\n• Fixed Some Bugs\n\n    × V 1.0.0 ×\n• Release",
 "userName" => "0",
-"downloadUpdate" => "https://t.me/GhostMODS"}
+"downloadUpdate" => "https://telegram.me/killmongerghost"}
